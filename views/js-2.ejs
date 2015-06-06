@@ -6,10 +6,13 @@
     <% include include/game.ejs %>    
  
     <script>  
-
-      function userScriptLoaded() {
-        endOfTurn (turnTaken)    
+      function output(msg) {
+        sweetAlert('', msg)
+      }
+      
+      function userScriptLoaded() {  
         gameStarted (initGame)
+        //endOfTurn(initGame)
         createRandomMaze(12, 8)
       }       
       

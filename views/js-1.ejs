@@ -3,38 +3,28 @@
   <head>
     <title>One</title>
     
-    <% include include/game.ejs %>    
+    <% include include/basic.ejs %>    
  
-    <script>  
+    <script>            
       
-      function userScriptLoaded() {
-        keyPressed (function (keyCode) {
-          if ( keyCode == 'LEFT' ) {
-            player.moveLeft()
-          } 
-          if ( keyCode == 'RIGHT' ) {
-            player.moveRight()
-          } 
-          if ( keyCode == 'UP' ) {
-            player.moveUp()
-          } 
-          if ( keyCode == 'DOWN' ) {
-            player.moveDown()
-          }  
-          keyPressedEvent(keyCode)
-       
-        })
-        createEmptyMaze()
-        addPlayer()
-      } 
-            
+      function restart() {
+        document.location.reload()
+      }
       
-        // Load the user blockly script
-        loadUserScript('/js/js-1.js')
+      function output(msg, noWrap) {
+        document.body.innerHTML += msg
+        if(typeof noWrap != undefined && noWrap) document.body.innerHTML += '<br>'
+      }
+
+      // Load the user blockly script
+      loadUserScript('/js/js-1.js')
+      
     </script>
     
   </head>
-  <body>
-    <div id="game"></div>
+  <body style="font-family:courier; font-color:#444444">
+    <div>
+      <button id="reload" style="margin-bottom:5px" onclick="restart()">Reload</button>        
+    </div>
   </body>
 </html>

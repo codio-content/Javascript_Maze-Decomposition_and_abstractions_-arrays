@@ -25,9 +25,13 @@ router.get('/js-2', function(req, res) {
   res.render('js-2');
 }); 
 
+// Challenge : create a 1d array for row 3
+router.get('/ch-3', function(req, res) {
+  res.render('ch-3');
+}); 
+
+
 
 
 module.exports = router;
-
-
 
