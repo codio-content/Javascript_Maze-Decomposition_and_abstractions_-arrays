@@ -7,3 +7,17 @@ We have provided you with some starting code on the left.
 
 |||
 
+|||guidance
+## Solution
+```javascript
+function initGame() {
+
+  row = []
+  for(x=0, msg=''; x<tiles.length; x++) {
+    row[x] = tiles[x][3].type
+  }
+  showMessage(row)
+  
+}
+```
+|||

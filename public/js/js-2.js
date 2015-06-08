@@ -6,7 +6,7 @@ function initGame() {
   for (x = 0, msg=''; x< tiles.length; x++) {
     msg += tiles[x][y].type + ' '
   }
-  output(msg)
+  showMessage(msg)
 }
 
 

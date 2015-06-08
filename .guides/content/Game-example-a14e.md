@@ -3,15 +3,15 @@ If you look at the code, you can see that we are using a loop that references an
 ## Explanation
 
 ```javascript
-row = player.y
+y = player.y
 ```
-This is declaring a variable `row` and then assigning the current Y coordinate of the player. `player` is an object that has and `x` and a `y` property.
+This is declaring a variable `y` and then assigning the current Y coordinate of the player. `player` is an object that has and `x` and a `y` property.
 
 ```javascript
-msg += tiles[x][row].type
+msg += tiles[x][y].type
 ```
 
-`tiles[x][row]` references the game tile in the xth column for the current player row. 
+`tiles[x][y]` references the game tile in the xth column for the current player row. 
 
 In fact, each tile is an object and the property we are interested in is called `.type` and contains the name of the entity at that tile position.
 

@@ -15,12 +15,12 @@ Then we manually set array values on the following lines. Finally, we print them
 ## Array Example 2
 The second example shows how we can create and populate an array using a single line of code. We then print out the results in the same way.
 
-## `array.length`
+## `array1.length`
 If you look at the condition within the loops, you can see we use a special function of the array.
 
 ```javascript
-array.length 
+array1.length
 ```
-tells us the number of elements in the array. This way we don't have to know in advance how many elements there are.
+This tells us the number of elements in the array called `array1`. This way we don't have to know in advance how many elements there are.
 
 This approach is used a lot in coding, so it's worth remembering.

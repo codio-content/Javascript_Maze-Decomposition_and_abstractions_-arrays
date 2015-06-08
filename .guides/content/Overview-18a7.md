@@ -1,7 +1,9 @@
 An array is the final major piece in the basic coding armoury. In this Unit we will be pulling everything together and we'll be prepared to do some real coding.
 
 ## Real World Analogy
-A simple analogy is a row of 100 houses along one side of a street. Each house is numbered from 1 to 100. 
+A simple analogy is a row of 100 houses along one side of a street. Each house is numbered from 1 to 100. Inside the house there live a certain number of people.
+
+We might then ask 'how many people live in number 37'?
 
 ## Array of numbers
 In programming, you might want to work with a list of 10 numbers. Imagine there are 10 boxes, each of which contains a number.
