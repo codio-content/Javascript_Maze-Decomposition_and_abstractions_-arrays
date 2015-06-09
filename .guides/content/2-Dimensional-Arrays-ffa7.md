@@ -1,4 +1,4 @@
-A 2 dimensional array is simply an array that where each arrays element contains another array. Thanks to our maze game, we actually have a really good example of a 2 dimensional array.
+A 2 dimensional array is simply an array where each array element contains another array. Thanks to our maze game, we actually have a really good example of a 2 dimensional array.
 
 ![](.guides/img/2d-array.png)
 

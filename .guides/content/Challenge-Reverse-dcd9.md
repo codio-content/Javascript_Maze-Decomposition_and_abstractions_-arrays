@@ -11,7 +11,7 @@ Lamb
 
 **Hints**
 - Use `strArray.length` in your loop to find out how many elements the array has
-- Your for loop should start at 4
+- Your `for` loop should start at 4
 - You need to decrease your counter, not increase it
 
 |||

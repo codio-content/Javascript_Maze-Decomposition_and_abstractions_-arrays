@@ -18,7 +18,7 @@ In programming, you might want to work with a list of 10 numbers. Imagine there 
 The circled box is
 
 - The 4th element in the array
-- Its index is therefore 3
+- Its index is therefore `3`
 - The element value is `51`
 
 ## The first element is 0 not 1

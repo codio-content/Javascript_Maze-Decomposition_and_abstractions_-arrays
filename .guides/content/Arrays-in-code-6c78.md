@@ -4,7 +4,7 @@ Let's see how we actually work with arrays in our code.
 This function lets you write things to the screen. If you want to add a new line afterwards (as we are doing in the examples), you set the second argument to be `true`.
 
 ## Array 1 example
-The first example show one way of creating and array. We first create an empty array using 
+The first example shows one way of creating an array. We first create an empty array using 
 
 ```javascript
 array1 = []

@@ -7,7 +7,7 @@ We want you to do 2 things here.
 
 If you look at the previous page, you can see how we use loops to read from the arrays. 
 
-In this challenge, rather than reading, you are doing an assigment just as you did with variables.
+In this challenge, rather than reading, you are doing an assignment just as you did with variables.
 
 |||
 

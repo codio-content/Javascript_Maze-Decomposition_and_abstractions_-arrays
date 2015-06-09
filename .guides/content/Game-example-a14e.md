@@ -5,7 +5,7 @@ If you look at the code, you can see that we are using a loop that references an
 ```javascript
 y = player.y
 ```
-This is declaring a variable `y` and then assigning the current Y coordinate of the player. `player` is an object that has and `x` and a `y` property.
+This is declaring a variable `y` and then assigning the current Y coordinate of the player. `player` is an object that has an `x` and a `y` property.
 
 ```javascript
 msg += tiles[x][y].type
