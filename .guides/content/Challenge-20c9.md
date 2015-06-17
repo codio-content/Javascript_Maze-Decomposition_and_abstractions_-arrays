@@ -1,7 +1,7 @@
 |||challenge
 We want you to do 2 things here.
 
-1. Create an empty array
+1. Create an empty array called `numArray`
 2. Use a loop to populate the array with 5 elements. The value for each element should be the index multiplied by 10.
 3. Create another loop that outputs all of the array element values.
 
@@ -16,14 +16,14 @@ In this challenge, rather than reading, you are doing an assignment just as you 
 |||guidance
 ## Solution
 ```javascript
-array = []
+numArray = []
 
 for (i=0; i<5; i++) {
-  array[i] = i*10
+  numArray[i] = i*10
 }
 
 for (i=0; i<5; i++) {
-  output(array[i], true)
+  output(numArray[i], true)
 }
 ```
 |||
