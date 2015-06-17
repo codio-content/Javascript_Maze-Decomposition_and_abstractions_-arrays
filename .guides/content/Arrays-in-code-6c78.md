@@ -19,7 +19,7 @@ The second example shows how we can create and populate an array using a single 
 array2 = ['Mary', 'had' , 'a', 'little', 'lamb']
 ```
 
-## `array1.length`
+## The `array1.length` function
 If you look at the condition within the loops, you can see we use a special function of the array.
 
 ```javascript
