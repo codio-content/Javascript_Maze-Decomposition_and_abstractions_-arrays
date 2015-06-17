@@ -3,8 +3,6 @@ var out = [];
 
 function output(msg, noWrap) {
   out.push(msg);
-  document.body.innerHTML += msg
-  if(typeof noWrap != undefined && noWrap) document.body.innerHTML += '<br>'
 }
 
 $.getScript(window.location.origin + '/public/js/' + window.testEnv.cmd + '.js?_=' + Date.now())

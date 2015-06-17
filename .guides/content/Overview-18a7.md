@@ -1,4 +1,4 @@
-An array is the final major piece in the basic coding armoury. In this Unit we will be pulling everything together and we'll be prepared to do some real coding.
+An array is the final major piece in the basic coding armoury. In this Unit we'll be pulling everything together and we'll be prepared to do some real coding.
 
 ## Real World Analogy
 A simple analogy is a row of 100 houses along one side of a street. Each house is numbered from 1 to 100. Inside the house there live a certain number of people.

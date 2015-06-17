@@ -3,7 +3,7 @@ Let's see how we actually work with arrays in our code.
 ## The `output()` function
 This function lets you write things to the screen. If you want to add a new line afterwards (as we are doing in the examples), you set the second argument to be `true`.
 
-## Array 1 example
+## Array Example 1
 The first example shows one way of creating an array. We first create an empty array using 
 
 ```javascript
@@ -14,6 +14,10 @@ Then we manually set array values on the following lines. Finally, we print them
 
 ## Array Example 2
 The second example shows how we can create and populate an array using a single line of code. We then print out the results in the same way.
+
+```javascript
+array2 = ['Mary', 'had' , 'a', 'little', 'lamb']
+```
 
 ## `array1.length`
 If you look at the condition within the loops, you can see we use a special function of the array.
