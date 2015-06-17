@@ -14,6 +14,8 @@ Lamb
 - Your `for` loop should start at 4
 - You need to decrease your counter, not increase it
 
+{Check It!!|custom}(ch-2)
+
 |||
 
 |||guidance

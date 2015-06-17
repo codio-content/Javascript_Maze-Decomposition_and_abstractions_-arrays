@@ -9,6 +9,8 @@ If you look at the previous page, you can see how we use loops to read from the 
 
 In this challenge, rather than reading, you are doing an assignment just as you did with variables.
 
+{Check It!!|custom}(ch-1)
+
 |||
 
 |||guidance

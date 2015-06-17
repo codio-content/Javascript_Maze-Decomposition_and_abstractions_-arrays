@@ -5,6 +5,8 @@ We have provided you with some starting code on the left.
 1. Using a loop, copy the contents of row 3 into it.
 1. Output the result to the screen.
 
+{Check It!!|custom}(ch-3)
+
 |||
 
 |||guidance
