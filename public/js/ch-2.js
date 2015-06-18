@@ -1,3 +1,3 @@
 
-strArray = ['Lamb', 'Little', 'A', 'Had', 'Mary']
+//Write your code below
 
