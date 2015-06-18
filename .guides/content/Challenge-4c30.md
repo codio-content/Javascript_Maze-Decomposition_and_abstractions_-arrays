@@ -1,9 +1,10 @@
 |||challenge
-We have provided you with some starting code on the left. 
 
-1. Create an array called `row` using `row = []`
-1. Using a loop, copy the contents of row 3 into it.
-1. Output the result to the screen.
+We have provided you with a starting function on the left to code you solution in. 
+
+1. Create an array called `result` like this `result = []`
+1. Copy the tile types (`tiles[x][y].type`) from the maze's 3rd row into `result`.
+1. Output `result` using the `output()` function.
 
 {Check It!!|custom}(ch-3)
 
@@ -14,12 +15,14 @@ We have provided you with some starting code on the left.
 ```javascript
 function initGame() {
 
-  row = []
-  for(x=0, msg=''; x<tiles.length; x++) {
-    row[x] = tiles[x][3].type
-  }
-  showMessage(row)
+  result = []
   
+  for(x=0, msg=''; x<tiles.length; x++) {
+    result[x] = tiles[x][3].type
+  }
+  
+  output(result)
+    
 }
 ```
 |||
