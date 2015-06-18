@@ -9,7 +9,7 @@ If you look at the previous page, you can see how we use loops to read from the 
 
 In this challenge, rather than reading, you are doing an assignment just as you did with variables.
 
-When you are ready to run your code press the 'reload' button on the left or the 'Check It!!' button below to have you solution assessed.
+When you are ready to run your code press the 'reload' button on the left or the 'Check It!!' button below to have your solution assessed.
 
 {Check It!!|custom}(ch-1)
 

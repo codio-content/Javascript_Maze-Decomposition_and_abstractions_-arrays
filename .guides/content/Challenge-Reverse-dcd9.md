@@ -14,7 +14,7 @@ Lamb
 - Your `for` loop should start at 4
 - You need to decrease your counter, not increase it
 
-When you are ready to run your code press the 'reload' button on the left or the 'Check It!!' button below to have you solution assessed.
+When you are ready to run your code press the 'reload' button on the left or the 'Check It!!' button below to have your solution assessed.
 
 {Check It!!|custom}(ch-2)
 
