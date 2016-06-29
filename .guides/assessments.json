@@ -1,0 +1,50 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-3250540465",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Array challenge",
+   "instructions": "We want you to do 2 things here.\n\n1. Create an empty array called `numArray`\n2. Use a loop to populate the array with 5 elements. The value for each element should be the index multiplied by 10.\n3. Create another loop that outputs all of the array element values.\n\nIf you look at the previous page, you can see how we use loops to read from the arrays. \n\nIn this challenge, rather than reading, you are doing an assignment just as you did with variables.\n\nWhen you are ready to run your code press the 'reload' button on the left or the 'Check It!!' button below to have your solution assessed.\n",
+   "command": "node .guides/tests/ch-1.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3736421609",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Array challenge reverse",
+   "instructions": "The code on the left has already created an array of strings. Your job is to output the string so they appear as shown below. It's trickier than you think.\n\n```javascript\nMary\nHad\nA\nLittle\nLamb\n```\n\n**Hints**\n- Use `strArray.length` in your loop to find out how many elements the array has\n- Your `for` loop should start at 4\n- You need to decrease your counter, not increase it\n\nWhen you are ready to run your code press the 'reload' button on the left or the 'Check It!!' button below to have your solution assessed.",
+   "command": "node .guides/tests/ch-2.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4668404",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "2 dimensional arrays",
+   "instructions": "\nWe have provided you with a starting function on the left to code you solution in. \n\n1. Create an array called `result` like this `result = []`\n1. Copy the tile types (`tiles[x][y].type`) from the maze's 3rd row into `result`.\n1. Output `result` using the `output()` function.\n1. The objective is to end up with output looking something like `wall, floor, floor..` etc reflecting the 3rd row of your maze\n",
+   "command": "node .guides/tests/ch-3.js",
+   "points": 1
+  }
+ }
+]
