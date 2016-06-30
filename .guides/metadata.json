@@ -14,7 +14,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Arrays-944a.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "18a7a6d-6942-680a-8d41-948d897263da",
@@ -24,7 +25,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Overview-18a7.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "6c78a6cc-917f-6c75-c04d-ccecca4fc052",
@@ -50,7 +52,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Arrays-in-code-6c78.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "20c93e6e-f049-468a-4d67-7faa6c577a81",
@@ -76,7 +79,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenge-20c9.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "dcd96eac-d2aa-1f7e-3619-1d68219260d3",
@@ -102,7 +106,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenge-Reverse-dcd9.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "ffa76ec-a5cd-6ccd-fbb3-36d8e60f388",
@@ -128,7 +133,8 @@
    "type": "markdown",
    "content-file": ".guides/content/2-Dimensional-Arrays-ffa7.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "a14ecb45-6206-fa80-bdf7-6f0c336b7887",
@@ -138,7 +144,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Game-example-a14e.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "4c30b52-5e32-2899-61a8-f15bb1f74488",
@@ -164,7 +171,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenge-4c30.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "2d8518b7-b528-cdfc-9c1e-818ff065d0a",
@@ -174,11 +182,13 @@
    "type": "markdown",
    "content-file": ".guides/content/That-s-all-folks-2d85.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
  "scripts": [
   "https://code.jquery.com/jquery-2.1.4.min.js"
- ]
+ ],
+ "lexikonTopic": ""
 }
